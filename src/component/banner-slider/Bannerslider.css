@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+.slick-prev {
+    left: 0!important;
+}
+.slick-next {
+    right: 0!important;;
+}
